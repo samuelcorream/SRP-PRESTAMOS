@@ -6,3 +6,4 @@
 >
 # *SRP_PRESTAMOS*
 SRP PRESTAMOS es un sistema de gestión de préstamos desarrollado en Python que permite administrar de manera eficiente el inventario de artículos que se prestan, el registro de usuarios, el control de préstamos activos, las devoluciones y la facturación automática. Está diseñado para funcionar completamente desde consola, con una interfaz amigable.
+
