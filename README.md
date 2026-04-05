@@ -9,12 +9,12 @@
 # *SRP_PRESTAMOS*
 SRP PRESTAMOS es un sistema de gestión de préstamos desarrollado en Python que permite administrar de manera eficiente el inventario de artículos que se prestan, el registro de usuarios, el control de préstamos activos, las devoluciones y la facturación automática. Está diseñado para funcionar completamente desde consola, con una interfaz amigable.
 ![logo del proyecto](https://raw.githubusercontent.com/samuelcorream/SRP-PRESTAMOS/refs/heads/main/IMAGEN/Logo%20de%20SRP%20Préstamos.png)
-# *lICENCIA*
+# *LICENCIA*
 <a href="https://github.com/samuelcorream/SRP-PRESTAMOS/tree/main">SRP PRESTAMOS </a> © 2026 by <a href="https://github.com/samuelcorream">SAMUEL CORREA MENDOZA</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 # *REPORTE DE VISIÓN*
 >SRP PRESTAMOS es un software de consola desarrollado en Python que sirve para gestionar los préstamos personales . El software busca que su administrador pueda llevar un control detallado de los artículos que presta, a quienes se lo presta, desde cuándo y cuando deben ser devueltos. De esta forma el software debe ser capaz de realizar de forma automática recordatorios, certificados y facturas dependiendo de reglas o pautas ya definidas.
 
->De esta manera Presta Ya digitaliza este proceso de préstamo y poder rastrear cada préstamo desde su inicio hasta su cierre (devolución o venta forzada)
+>De esta manera SRP PRESTAMOS digitaliza este proceso de préstamo y poder rastrear cada préstamo desde su inicio hasta su cierre (devolución o venta forzada)
 
 >El sistema cubrirá los siguientes módulos funcionales:
 
