@@ -89,7 +89,7 @@ SRP PRESTAMOS es un sistema de gestión de préstamos desarrollado en Python que
  
  >Fácil de usar: interfaz sencilla
  
- >Compatible: funcionar en computador y celular
+ >Compatible: funcionar en computador 
 
 > Confiable: guardar bien los datos sin pérdidas
 # *PLAN DE PROYECTO*
@@ -105,3 +105,5 @@ SRP PRESTAMOS es un sistema de gestión de préstamos desarrollado en Python que
 >Implementación
 
 >Documentación final
+##**DIAGRAMA DE GANT
+>
