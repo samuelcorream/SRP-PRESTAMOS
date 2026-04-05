@@ -105,5 +105,8 @@ SRP PRESTAMOS es un sistema de gestión de préstamos desarrollado en Python que
 >Implementación
 
 >Documentación final
-##**DIAGRAMA DE GANT
->
+## **DIAGRAMA DE GANT
+![DIAGRAMA](https://raw.githubusercontent.com/samuelcorream/SRP-PRESTAMOS/refs/heads/main/IMAGEN/Gemini_Generated_Image_frfpihfrfpihfrfp.png)
+### ***DEFINICION DIAGRAMA 
+ > SEMANA 1-7
+ >> ENTREGABLE 1 LA 8 A LA 14 SEA LA CODIFICACION DEL PROGRAMA,ENSAYAR EL PROGRAMA PARA EVITAR ERRORES Y QUE DE LA 15 A LA 16 SEA ENTREGA DEL PROGRAMA TERMINADO AL PROFESOR,DOCUMENTACION FINAL, SUSTENTACION FORMAL
