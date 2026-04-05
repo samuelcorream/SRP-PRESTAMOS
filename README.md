@@ -66,3 +66,29 @@ SRP PRESTAMOS es un sistema de gestión de préstamos desarrollado en Python que
 >>Reportes detallados de ganancias
 
 >>Historial de clientes y préstamos
+# *Requisitos de SRP Préstamos*
+## *Requisitos Funcionales*
+>Registrar clientes
+
+>Crear préstamos
+
+>Calcular intereses
+
+>Registrar pagos
+
+>Ver deudas pendientes
+
+>Mostrar historial de préstamos
+
+>Generar reportes básicos
+## *Requisitos No Funcionales*
+ 
+ >Seguro: proteger la información de usuarios
+ 
+ >Rápido: responder sin demoras
+ 
+ >Fácil de usar: interfaz sencilla
+ 
+ >Compatible: funcionar en computador y celular
+
+> Confiable: guardar bien los datos sin pérdidas
