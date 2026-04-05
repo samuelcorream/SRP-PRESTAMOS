@@ -133,4 +133,10 @@ SRP PRESTAMOS es un sistema de gestión de préstamos desarrollado en Python que
 
 >>Hito(ENTREGABLE FINAL): Programa terminado y sustentado
 # *PRESUPUESTO
-![PRESUPUESTO]()
+![PRESUPUESTO](https://raw.githubusercontent.com/samuelcorream/SRP-PRESTAMOS/refs/heads/main/IMAGEN/Screenshot_2026-04-05-15-15-44-314_com.android.chrome.png)
+## *CALCULO PRECIO X HORA
+>>$1750905/220 =$7958
+# *CALCULO HORAS TOTALES X ESTUDIANTE
+>>$7958*50=$397500
+# *CALCULO PRESUPUESTO TOTAL
+>>$397500*3=$1193700
