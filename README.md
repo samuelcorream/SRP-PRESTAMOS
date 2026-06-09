@@ -140,3 +140,6 @@ SRP PRESTAMOS es un sistema de gestión de préstamos desarrollado en Python que
 >>$7958*50=$397500
 # *CALCULO PRESUPUESTO TOTAL
 >>$397500*3=$1193700
+
+# *Plan versionado: Gestor de prestamos "SRP PRESTAMOS*
+![version](https://raw.githubusercontent.com/samuelcorream/SRP-PRESTAMOS/refs/heads/main/IMAGEN/version.png)
